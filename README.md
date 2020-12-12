@@ -1,0 +1,2 @@
+# nextJSBegin
+A NextJS beginning
